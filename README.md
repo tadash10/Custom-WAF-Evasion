@@ -72,7 +72,7 @@ Implements rate-limiting mechanisms to avoid overloading the target server with 
 response_analysis.py
 
 Implements an automated response analysis function that parses and analyzes responses for signs of evasion success. Checks for changes in content, status codes, or response headers that indicate successful evasion.
-response_time_analysis.py
+response_time_analysis.py  .
 
 Analyzes response times to detect time-based SQL injection vulnerabilities. Implements timing attacks to identify delays caused by successful injections.
 session_handling.py
